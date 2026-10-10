@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahmed Sykoo · أحمد سيكو
+# Ahmed Sykoo · أحمد سايكو
 
 **Building Arabic-first developer tools and AI apps.**
 **ببني أدوات للمطورين بدعم عربي كامل وتطبيقات ذكاء اصطناعي.**
