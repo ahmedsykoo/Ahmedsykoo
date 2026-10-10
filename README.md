@@ -5,6 +5,8 @@
 **أحمد سايكو** — ببني أدوات للمطورين بدعم عربي كامل وتطبيقات ذكاء اصطناعي.
 
 [![GitHub followers](https://img.shields.io/github/followers/ahmedsykoo?style=for-the-badge&logo=github&color=2c5364)](https://github.com/ahmedsykoo)
+[![Instagram](https://img.shields.io/badge/Instagram-ahmed__sykoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmed_sykoo)
+[![Facebook](https://img.shields.io/badge/Facebook-Ahmed_Sykoo-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AB4ezRMRr/)
 [![Email](https://img.shields.io/badge/Email-ahmed.sykooo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.sykooo@gmail.com)
 
 </div>
@@ -47,6 +49,8 @@
 
 ## 📫 Contact · للتواصل
 
-[ahmed.sykooo@gmail.com](mailto:ahmed.sykooo@gmail.com)
+- Email: [ahmed.sykooo@gmail.com](mailto:ahmed.sykooo@gmail.com)
+- Instagram: [@ahmed_sykoo](https://www.instagram.com/ahmed_sykoo)
+- Facebook: [Ahmed Sykoo](https://www.facebook.com/share/1AB4ezRMRr/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="" />
